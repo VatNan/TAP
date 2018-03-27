@@ -1,0 +1,51 @@
+[
+  {
+    "model": "tugether.event",
+    "pk": 1,
+    "fields": {
+      "topic": "Freak Out",
+      "posterpic": "l",
+      "createdate": "2018-03-26T04:03:01.559Z",
+      "createby": [1],
+      "updatedate":"2018-03-26T04:03:01.559Z",
+      "startdate":"2018-03-26T04:03:01.559Z",
+      "enddate":"2018-03-26T04:03:01.559Z",
+      "active": true,
+      "limited": 300,
+      "location": "บร.5",
+      "approve": "2",
+      "bcapprove": "",
+      "description": "งานละครเวที ค่าบัตรราคา 100,250,350 บาท ซื้อบัตรได้ที่ศูนย์หนังสือธรรมศาสตร์",
+      "facebook": "Freakout page",
+      "line": "",
+      "web": "",
+      "phone": "",
+      "hashtag": "#Stageplay #ละครเวที"
+
+    }
+  },
+  {
+    "model": "tugether.event",
+    "pk": 2,
+    "fields": {
+      "topic": "CU-TU traditional football",
+      "posterpic": "l",
+      "createdate": "2018-03-26T04:03:01.559Z",
+      "createby": [1],
+      "updatedate":"2018-03-26T04:03:01.559Z",
+      "startdate":"2018-03-26T04:03:01.559Z",
+      "enddate":"2018-03-26T04:03:01.559Z",
+      "active": true,
+      "limited": 4000,
+      "location": "สนามศุภชลาศัย",
+      "approve": "2",
+      "bcapprove": "",
+      "description": "งานฟุตบอลประเพณี ค่าบัตรราคา 100,200,400 บาท ซื้อบัตรได้ที่ศูนย์หนังสือธรรมศาสตร์",
+      "facebook": "CUTU football",
+      "line": "",
+      "web": "",
+      "phone": "",
+      "hashtag": "#cututraditional#football#ฟุตบอลประเพณี"
+    }
+  }
+]
